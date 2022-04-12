@@ -1,5 +1,7 @@
 ```sh
 source ~/.emsdk/emsdk_env.sh
+source ~/.bashrc
+
 cd /application/src
 nimble install
 nimble wasm
