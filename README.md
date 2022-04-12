@@ -1,5 +1,6 @@
 ```sh
 source ~/.emsdk/emsdk_env.sh
+cd /application/src
 nimble install
 nimble wasm
 yarn install
